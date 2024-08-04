@@ -1,0 +1,14 @@
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\bin\Debug\net8.0\Project03OOP.exe
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\bin\Debug\net8.0\Project03OOP.deps.json
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\bin\Debug\net8.0\Project03OOP.runtimeconfig.json
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\bin\Debug\net8.0\Project03OOP.dll
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\bin\Debug\net8.0\Project03OOP.pdb
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\obj\Debug\net8.0\Project03OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\obj\Debug\net8.0\Project03OOP.AssemblyInfoInputs.cache
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\obj\Debug\net8.0\Project03OOP.AssemblyInfo.cs
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\obj\Debug\net8.0\Project03OOP.csproj.CoreCompileInputs.cache
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\obj\Debug\net8.0\Project03OOP.dll
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\obj\Debug\net8.0\refint\Project03OOP.dll
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\obj\Debug\net8.0\Project03OOP.pdb
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\obj\Debug\net8.0\Project03OOP.genruntimeconfig.cache
+D:\Technology\Backend\3- C# OOP\OOP Projects\3- Employee Management Solution\Project03OOP\obj\Debug\net8.0\ref\Project03OOP.dll
